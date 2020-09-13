@@ -15,7 +15,7 @@
 ## OSI TCPIP Encapsulamiento
 ![OSI TCPIP Encapsulamiento](https://github.com/lesandcl/Imagenes/blob/master/OSI-TCPIP-Encap.png)
 
-## OSI TCPIP
+## OSI v/s TCP/IP
 ![OSI TCPIP](https://github.com/lesandcl/Imagenes/blob/master/OSI-TCPIP.png)
 
 ## TCP Header
