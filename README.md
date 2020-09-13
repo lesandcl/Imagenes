@@ -9,7 +9,7 @@
 ## IPv6 Header
 ![IPv6 Header](https://github.com/lesandcl/Imagenes/blob/master/IPv6%20%20Header.png)
 
-## Modelo OSI.PNG
+## Modelo OSI
 ![Modelo OSI](https://github.com/lesandcl/Imagenes/blob/master/OSI-TCPIP.png)
 
 ## OSI TCPIP Encapsulamiento
