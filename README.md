@@ -12,7 +12,7 @@
 ## Modelo OSI
 ![Modelo OSI](https://github.com/lesandcl/Imagenes/blob/master/OSI-TCPIP.png)
 
-## OSI TCPIP Encapsulamiento
+## OSI TCP/IP Encapsulamiento
 ![OSI TCPIP Encapsulamiento](https://github.com/lesandcl/Imagenes/blob/master/OSI-TCPIP-Encap.png)
 
 ## OSI v/s TCP/IP
